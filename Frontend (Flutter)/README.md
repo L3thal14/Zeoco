@@ -1,4 +1,4 @@
-# ZEOCO
+# Zeoco
 
 A new Flutter project.
 
